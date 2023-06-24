@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar_container {
+    font-family: serif;
+    color: #ffffff;
+}
+
+.background_container {
+    background-color: #82480e;
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+    font-family: serif;
+    border-radius: 5px;
+}
+
+.danger {
+    border-color: red;
+    color: #ffffff;
+}
+
+.heading {
+    font-family: serif;
+    color: #ffffff;
+    text-align: left;
+}
+
+.project_heading {
+    text-align: center;
+    font-family: serif;
+
+}
+
+.projects_container {
+    background-color: #524961;
+    height: 60vh;
+    width: 90vw;
+    border-radius: 10px;
+}
+
+.paragraph_portfolio {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.project1_heading {
+    font-family: serif;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.project_heading1 {
+    font-family: serif;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.project1_image {
+    height: 58vh;
+    width: 300px;
+}
+
+.project_paragraph {
+    font-family: serif;
+    color: #ffffff;
+}
+
+.about_image {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.about_heading {
+    font-family: serif;
+    font-weight: bold;
+    color: #c96416;
+}
+
+.skills_image {
+    height: 200px;
+    width: 180px;
+}
+
+.skils_heading1 {
+    font-family: serif;
+    text-align: center;
+    font-weight: bold;
+    color: #fa3a14;
+}
+
+.skils_heading {
+    font-family: serif;
+    text-align: center;
+}
+
+.contact_heading {
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact_container {
+    height: 100px;
+    width: 250px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.contact_paragraph {
+    text-align: center;
+}
+
+.contact_image {
+    height: 40px;
+    width: 100px;
+}
+
+.contact_heading {
+    font-family: serif;
+    font-size: 25px;
+}
+
+.container1 {
+    font-family: 'serif';
+    background-color: #2e3c82;
+    height: 70vh;
+    width: 100vw;
+}
+
+.nav_container {
+    background-color: #2e3c82;
+    color: #ffffff;
+
+}
